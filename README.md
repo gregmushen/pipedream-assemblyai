@@ -1,4 +1,4 @@
-# verbose-telegram
+# pipedream-assemblyai
 
 # Pipedream <> Assembly AI
 This repository provides a simple example of how to configure Pipedream to call Assembly AI. These scripts can be used to accept a call recording as an input, and then send that call recording to Assembly AI for things like transcription, sentiment analysis, and classification.
